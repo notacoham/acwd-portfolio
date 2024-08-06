@@ -98,9 +98,7 @@ export const Projects = () => {
                       <Tab.Pane eventKey="second">
                         <p>
                           The Sage and Sky mockup is a site I designed,
-                          developed, and deployed as an example of what I can
-                          bring to the table. While lacking features, with time
-                          it can be developed into a fully functional site.
+                          developed, and deployed as an example for a small local business owner.
                         </p>
                       </Tab.Pane>
                       <Tab.Pane eventKey="third">
